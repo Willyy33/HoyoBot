@@ -12,12 +12,18 @@ The bot handles login sessions, popup handling, and daily reward claiming automa
 ## Setup Instructions
 
 ### 1. Install dependencies
+```
 pip install playwright python-dotenv
 playwright install
+```
 
 ### 2. Create .env
+```
 HOYO_EMAIL=your_email@example.com
 HOYO_PASSWORD=your_password
+```
 
 ### 3. Run manually
+```
 python bot.py
+```
