@@ -1,3 +1,4 @@
 .env
 state.json
 last_run.txt
+.gitignore
